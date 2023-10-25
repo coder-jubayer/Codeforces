@@ -1,0 +1,12 @@
+//////////////////////////////////////////////// Solved by MD Jubayer Islam ///////////////////////////////////////
+#include<iostream>
+using namespace std;
+int main(){
+    int d,h,w,ans=0;
+    d=2;    
+    cin>>h>>w;
+    int b=h*w;
+        ans=b/d;
+    cout<<ans;
+
+}
